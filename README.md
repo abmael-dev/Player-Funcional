@@ -25,7 +25,7 @@ Você pode acessar a demonstração do projeto aqui: https://playerfuncional.net
 ## Instalação
 
 ```bash
-  Clone ou baixe este repositório
-  Abra o arquivo index.html no seu navegador preferido
-  Utilize os controles do player para reproduzir as músicas
+  #Clone ou baixe este repositório
+  #Abra o arquivo index.html no seu navegador preferido
+  #Utilize os controles do player para reproduzir as músicas
 ```
